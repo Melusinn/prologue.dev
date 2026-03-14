@@ -26,3 +26,7 @@
   description: "正在学习经济学的二次元"
   blog_url: "https://blog.huaxiangshan.com/"
   avatar: "/static/avatars/blog.huaxiangshan.com.ico"
+- name: "消解炼金术"
+  description: "没有月光照耀的日子，一切也都清晰得不见云雾"
+  blog_url: "https://melusinn.net/"
+  avatar: "/static/avatars/melusinn.net.png"
